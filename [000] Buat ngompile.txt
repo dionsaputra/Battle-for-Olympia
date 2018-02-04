@@ -1,0 +1,1 @@
+gcc -lm -o main main.c peta.c player.c petak.c unit.c point.c stackt.c kata.c jam.c game.c pcolor.c queue.c mesinkar.c mesinkata.c
