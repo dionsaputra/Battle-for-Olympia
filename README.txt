@@ -5,7 +5,7 @@
 /_____/\__,_/\__/\__/_/\___/  /_/    \____/_/      \____/_/\__, /_/ /_/ /_/ .___/_/\__,_/  
                                                           /____/         /_/               
 
-Implementation of Data Structure and Algorithm to Command Line Interafe Game
+Implementation of Data Structure and Algorithm to Command Line Interface Game
 
 Instruction (prerequisite: C compiler has been installed)
 - Compile: gcc -std=c99 -lm -o main main.c peta.c player.c petak.c unit.c point.c stackt.c kata.c jam.c game.c pcolor.c queue.c mesinkar.c mesinkata.c 
