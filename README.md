@@ -5,13 +5,15 @@
 /_____/\__,_/\__/\__/_/\___/  /_/    \____/_/      \____/_/\__, /_/ /_/ /_/ .___/_/\__,_/  
                                                           /____/         /_/               
 
-Dibuat untuk memenuhi tugas besar mata kuliah Algoritma dan Struktur Data
+Implementation of Data Structure and Algorithm to Command Line Interafe Game
 
-Dibuat oleh :
+Instruction (prerequisite: C compiler has been installed)
+- Compile: gcc -std=c99 -lm -o main main.c peta.c player.c petak.c unit.c point.c stackt.c kata.c jam.c game.c pcolor.c queue.c mesinkar.c mesinkata.c 
+- Run: main
+
+Team:
 - Dafi Ihsandiya Faraz
 - Dion Saputra
 - Maulana Akmal
 - Rifo Ahmad Genadi
 - Seldi Kurnia Trihardja  
-
-Untuk compile: gcc -lm -o main main.c peta.c player.c petak.c unit.c point.c stackt.c kata.c jam.c game.c pcolor.c queue.c mesinkar.c mesinkata.c
